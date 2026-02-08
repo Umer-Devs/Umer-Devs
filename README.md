@@ -1,19 +1,13 @@
 <div align="center">
 
 <!-- Animated Header with Gradient -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Umer%20Jamil&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Frontend%20Developer%20•%20Creative%20Technologist&descSize=18&descAlignY=55" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Umer%20Jamil&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Full%20Stack%20Developer%20•%20Creative%20Technologist&descSize=18&descAlignY=55" />
 
 <!-- Typing SVG Animation -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=600&lines=Crafting+Pixel-Perfect+Experiences+%F0%9F%8E%A8;Building+Modern+Web+Solutions+%F0%9F%9A%80;Passionate+About+Clean+Code+%E2%9C%A8;From+Pakistan+with+Love+%F0%9F%87%B5%F0%9F%87%B0" alt="Typing SVG" /></a>
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- Profile Views Counter with Animation -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=umerjamil&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/umerjamil?label=Followers&style=for-the-badge&color=blue" alt="followers" />
-</p>
 
 </div>
 
@@ -29,11 +23,11 @@
 ```typescript
 const umerJamil = {
     location: "Pakistan 🇵🇰",
-    role: "Frontend Developer",
-    currentFocus: "Building scalable web apps with Next.js",
-    learning: ["AI/ML", "Full-Stack Development", "Cloud Technologies"],
+    role: "Full Stack Developer",
+    currentFocus: "Building scalable web apps with MERN Stack",
+    learning: ["AI/ML", "Cloud Technologies", "DevOps"],
     passions: ["Clean Code", "UI/UX Design", "Problem Solving"],
-    askMeAbout: ["React", "Next.js", "TypeScript", "Web Performance"],
+    askMeAbout: ["React", "Next.js", "Node.js", "Express", "MongoDB"],
     funFact: "I turn coffee into code ☕ → 💻 → ✨"
 };
 ```
@@ -55,17 +49,17 @@ const umerJamil = {
 <td width="50%">
 
 ### 🔭 Currently Working On
-- 🎯 Building **slick, scalable web apps** with Next.js
+- 🎯 Building **full-stack applications** with MERN Stack
 - 🎨 Creating **pixel-perfect UI/UX** designs
-- ⚡ Optimizing **performance** and **accessibility**
+- ⚡ Developing **RESTful APIs** with Node.js & Express
 
 </td>
 <td width="50%">
 
 ### 🌱 Currently Learning
 - 🤖 **AI/ML** for intelligent web features
-- 🔧 **Backend technologies** (Node.js, Express)
 - ☁️ **Cloud deployment** and DevOps
+- 🔐 **Advanced authentication** strategies
 
 </td>
 </tr>
@@ -73,7 +67,7 @@ const umerJamil = {
 <td width="50%">
 
 ### 👯 Looking to Collaborate
-- 🤝 **Full-stack projects** with backend devs
+- 🤝 **Full-stack projects** with passionate developers
 - 🎨 **Open-source** contributions
 - 💡 **Innovative** web solutions
 
@@ -107,6 +101,16 @@ const umerJamil = {
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
+### ⚙️ Backend Development
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" />
+</p>
+
 ### 🔧 Tools & Technologies
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -115,55 +119,16 @@ const umerJamil = {
   <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
 ### 🌱 Currently Learning
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
-
-</div>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- GitHub Stats with Animation -->
-<div align="center">
-
-## 📊 GitHub Analytics
-
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=umerjamil&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umerjamil&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
-</p>
-
-<!-- GitHub Streak Stats -->
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umerjamil&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=FFFFFF" alt="GitHub Streak" />
-</p>
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=umerjamil&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" width="100%"/>
-
-<!-- GitHub Trophies -->
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=umerjamil&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" width="100%"/>
-</p>
-
-</div>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- 3D Contribution Graph -->
-<div align="center">
-
-## 🎯 3D Contribution Calendar
-
-![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 </div>
 
@@ -194,7 +159,7 @@ const umerJamil = {
 ```
 ✨ Freelance Projects
 🤝 Collaboration Opportunities  
-💼 Full-time Frontend Roles
+💼 Full Stack Development Roles
 🎓 Mentorship & Knowledge Sharing
 ```
 
@@ -223,22 +188,11 @@ const umerJamil = {
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Fun Fact with Animation -->
-<div align="center">
-
-### ⚡ Fun Fact
-
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
-
-</div>
-
 <!-- Footer Wave Animation -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
 
 <!-- Centered Footer Text -->
 <div align="center">
-  
-### ⭐ Show some love by starring the repos you find interesting!
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
