@@ -160,7 +160,7 @@ const umerJamil = {
 ✨ Freelance Projects
 🤝 Collaboration Opportunities  
 💼 Full Stack Development Roles
-🎓 Mentorship & Knowledge Sharing
+
 ```
 
 </div>
