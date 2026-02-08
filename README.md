@@ -54,14 +54,7 @@ const umerJamil = {
 - ⚡ Developing **RESTful APIs** with Node.js & Express
 
 </td>
-<td width="50%">
 
-### 🌱 Currently Learning
-- 🤖 **AI/ML** for intelligent web features
-- ☁️ **Cloud deployment** and DevOps
-- 🔐 **Advanced authentication** strategies
-
-</td>
 </tr>
 <tr>
 <td width="50%">
