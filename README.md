@@ -15,7 +15,7 @@
 <!-- Animated About Section -->
 <div align="center">
   
-## 🌟 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
+About Me
 
 </div>
 
