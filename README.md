@@ -23,14 +23,14 @@
 
 ```typescript
 const umerJamil = {
-    location: "Pakistan 🇵🇰",
+    location: " Karachi Pakistan ",
     role: "MERN Stack Developer",
     currentFocus: "Building scalable web apps with MERN Stack",
     techStack: ["MongoDB", "Express.js", "React.js", "Node.js"],
-    learning: ["AI/ML", "Cloud Technologies", "DevOps"],
+    learning: ["Agentic Ai"],
     passions: ["Clean Code", "UI/UX Design", "Problem Solving"],
-    askMeAbout: ["React", "Next.js", "Node.js", "Express", "MongoDB"],
-    funFact: "I turn coffee into code ☕ → 💻 → ✨"
+   
+    
 };
 ```
 
