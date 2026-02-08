@@ -35,8 +35,7 @@ const umerJamil = {
 
 <br clear="right"/>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 <!-- Current Activities with Icons -->
 <div align="center">
@@ -59,8 +58,7 @@ const umerJamil = {
 
 ### 🌱 Currently Learning
 - 🤖 **AI/ML** for intelligent web features
-- ☁️ **Cloud deployment** (AWS, Docker)
-- 🔐 **Advanced authentication** & security
+
 
 </td>
 </tr>
