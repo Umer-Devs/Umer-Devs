@@ -4,10 +4,10 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Umer%20Jamil&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff&desc=MERN%20Stack%20Developer%20•%20Creative%20Technologist&descSize=18&descAlignY=55" />
 
 <!-- Typing SVG Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=600&lines=MERN+Stack+Developer+%F0%9F%9A%80;MongoDB+•+Express+•+React+•+Node.js+%F0%9F%92%BB;Building+Modern+Web+Solutions+%E2%9C%A8;From+Pakistan+with+Love+%F0%9F%87%B5%F0%9F%87%B0" alt="Typing SVG" /></a>
+
 
 <!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 </div>
 
@@ -84,7 +84,7 @@ const umerJamil = {
 </table>
 
 <!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 <!-- Tech Stack with Animated Icons -->
 <div align="center">
@@ -123,18 +123,12 @@ const umerJamil = {
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
-### 🌱 Currently Learning
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
+
 
 </div>
 
 <!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 <!-- Connect Section with Animated Badges -->
 <div align="center">
@@ -161,40 +155,13 @@ const umerJamil = {
 ✨ Freelance Projects
 🤝 Collaboration Opportunities  
 💼 MERN Stack Developer Roles
-🎓 Mentorship & Knowledge Sharing
 ```
 
 </div>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Quote Section -->
-<div align="center">
 
-### 💭 Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-</div>
 
-<!-- Animated Snake -->
-<div align="center">
-
-### 🐍 Watch my contributions get eaten!
-
-![snake gif](https://github.com/umerjamil/umerjamil/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- Footer Wave Animation -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
-
-<!-- Centered Footer Text -->
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
 </div>
