@@ -7,7 +7,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=600&lines=Crafting+Pixel-Perfect+Experiences+%F0%9F%8E%A8;Building+Modern+Web+Solutions+%F0%9F%9A%80;Passionate+About+Clean+Code+%E2%9C%A8;From+Pakistan+with+Love+%F0%9F%87%B5%F0%9F%87%B0" alt="Typing SVG" /></a>
 
 <!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 </div>
 
@@ -35,7 +35,7 @@ const umerJamil = {
 <br clear="right"/>
 
 <!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 <!-- Current Activities with Icons -->
 <div align="center">
@@ -76,7 +76,6 @@ const umerJamil = {
 </table>
 
 <!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- Tech Stack with Animated Icons -->
 <div align="center">
@@ -126,7 +125,7 @@ const umerJamil = {
 </div>
 
 <!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 <!-- Connect Section with Animated Badges -->
 <div align="center">
@@ -159,7 +158,7 @@ const umerJamil = {
 </div>
 
 <!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 
 
