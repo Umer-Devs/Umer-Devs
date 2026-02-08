@@ -28,7 +28,7 @@ const umerJamil = {
     currentFocus: "Building scalable web apps with MERN Stack",
     techStack: ["MongoDB", "Express.js", "React.js", "Node.js"],
     learning: ["Agentic Ai"],
-    passions: ["Clean Code", "UI/UX Design", "Problem Solving"],
+    
    
     
 };
