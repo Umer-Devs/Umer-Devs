@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header with Gradient -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Umer%20Jamil&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff&desc=MERN%20Stack%20Developer%20•%20Creative%20Technologist&descSize=18&descAlignY=55" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=blue&customColorList=6,11,20&height=200&section=header&text=Umer%20Jamil&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff&desc=MERN%20Stack%20Developer%20•%20Creative%20Technologist&descSize=18&descAlignY=55" />
 
 <!-- Typing SVG Animation -->
 
