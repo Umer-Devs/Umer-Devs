@@ -67,7 +67,7 @@ const umerJamil = {
 <td width="50%">
 
 ### 👯 Looking to Collaborate
-- 🤝 *MERN Stack projects*
+- 🤝 **MERN Stack projects**
 - 🎨 **Open-source** contributions
 - 💡 **Innovative** web solutions
 
