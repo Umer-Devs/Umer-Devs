@@ -41,7 +41,7 @@ const umerJamil = {
 <!-- Current Activities with Icons -->
 <div align="center">
 
-## 🚀 What I m Up To
+# 🚀 What I m Up To
 
 </div>
 
