@@ -50,7 +50,7 @@ const umerJamil = {
 <td width="50%">
 
 ### 🔭 Currently Working On
-- 🎯 Building **MERN Stack applications** 
+- 🎯 Building *MERN Stack applications*
 - 🎨 Creating **responsive UI** with React & Next.js
 - ⚡ Developing **RESTful APIs** with Node.js & Express
 
